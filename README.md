@@ -75,23 +75,17 @@ I focus on learning and building **Python-based applications and AI-powered syst
 | 💡 Creativity      | Innovative project ideas  |
 
 ---
-
 ## 📊 GitHub Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Varsha-G-E&show_icons=true&theme=tokyonight"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-G-E&layout=compact&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsha-G-E&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-G-E&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-G-E&theme=tokyonight" width="100%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Varsha-G-E&theme=tokyonight"/>
+</p>
 
 ---
 
