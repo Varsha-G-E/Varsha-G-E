@@ -77,17 +77,13 @@ I focus on learning and building **Python-based applications and AI-powered syst
 ---
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varsha-G-E&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Varsha-G-E&theme=radical&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-G-E&layout=compact&theme=radical&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-G-E&theme=github-compact&hide_border=true&area=true"/>
