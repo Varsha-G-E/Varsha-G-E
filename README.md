@@ -35,7 +35,7 @@ I focus on learning and building **Python-based applications and AI-powered syst
 | **Programming** | `Python`, `Java`, `SQL`                     |
 | **AI/ML**       | `PyTorch`, `TensorFlow`, `Keras`, `Scikit-learn` |         |
 | **Database**    | `MySQL`                                          |
-| **Tools**       | `Git`, `GitHub`, `VS Code`, `IntelliJ`, `Colab`  |
+| **Tools**       | `Git`, `GitHub`, `VS Code`, `Eclipse`, `Colab`  |
 
 ---
 
